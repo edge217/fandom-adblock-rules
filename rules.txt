@@ -5,3 +5,4 @@ fandom.com##.global-navigation
 fandom.com###mixed-content-footer
 fandom.com##.global-footer__content
 fandom.com###WikiaBar
+fandom.com##.recirculation-prefooter
