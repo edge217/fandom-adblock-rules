@@ -1,5 +1,5 @@
 ! (c) Edgeburn Media 2023
-! Last updated 16 March 2023
+! Last updated 27 May 2023
 ! Title: Fandom Decluttering
 fandom.com##.page__right-rail
 fandom.com##.global-navigation
@@ -9,3 +9,5 @@ fandom.com###WikiaBar
 fandom.com##.recirculation-prefooter
 fandom.com##.mobile-global-navigation__right > .mobile-global-navigation__buttons > .mobile-notifications
 fandom.com##.mobile-global-navigation__right > .mobile-global-navigation__buttons > .wds-dropdown.mobile-global-navigation__user-menu
+fandom.com##.reviews
+fandom.com##.render-wiki-recommendations
